@@ -8,13 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Damirbey/NodeJS-and-ExpressJS.git"
+    "url": "git+https://damirbey@github.com/Damirbey/NodeJS-and-ExpressJS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Damirbey/NodeJS-and-ExpressJS/issues"
   },
-  "homepage": "https://github.com/Damirbey/NodeJS-and-ExpressJS#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/Damirbey/NodeJS-and-ExpressJS#readme"
 }
